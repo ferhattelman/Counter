@@ -1,2 +1,1 @@
-# Counter
- 
+My first project on React
